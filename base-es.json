@@ -391,7 +391,7 @@
   "sso.card_2.title": "Ciclo de Vida de la Clave Segura",
   "sso.card_2.text": "Las claves admiten la generación, rotación y revocación a lo largo de su ciclo de vida. Las credenciales comprometidas se pueden deshabilitar instantáneamente. Se minimizan los riesgos de seguridad. Las operaciones permanecen ininterrumpidas.",
   "sso.card_3.title": "Trazabilidad de Auditoría y Configuración",
-  "sso.card_3.text": "Se registran todos los cambios de seguridad y configuración. Los registros de auditoría proporcionan una visibilidad completa de la actividad del sistema. Las revisiones de cumplimiento se simplifican. La rendición de cuentas está claramente documentada."
+  "sso.card_3.text": "Se registran todos los cambios de seguridad y configuración. Los registros de auditoría proporcionan una visibilidad completa de la actividad del sistema. Las revisiones de cumplimiento se simplifican. La rendición de cuentas está claramente documentada.",
   "sso.footer_cta.title": "Configure una vez. Operar de forma segura",
 
   "faq.hero.title": "Preguntas frecuentes sobre urenkoff",

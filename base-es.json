@@ -479,7 +479,7 @@
   "security.card_2.title": "Detección y Pruebas Activas de Amenazas",
   "security.card_2.text": "No esperamos a que lleguen las amenazas; las buscamos proactivamente. Nuestros sistemas se someten a pruebas de penetración periódicas e intensivas y evaluaciones de vulnerabilidad realizadas por profesionales de seguridad certificados. Al simular ataques del mundo real, validamos nuestras defensas y nos aseguramos de que nuestro software sea resistente. Empleamos monitoreo continuo para detectar anomalías al instante, asegurando una protección 24/7 para sus operaciones comerciales.",
   "security.card_3.title": "Privacidad de Datos y Gobernanza de Acceso",
-  "security.card_3.text": "Creemos que sus datos le pertenecen. Nuestra filosofía de privacidad está respaldada por estrictos controles de software y hardware que limitan el acceso a la información estrictamente al personal y los procesos autorizados. Utilizamos cifrado avanzado para los datos en tránsito y en reposo, lo que garantiza que la información confidencial permanezca invisible para las miradas indiscretas. Nuestras políticas están diseñadas para minimizar la exposición de datos, adhiriéndose a un estricto principio de "necesidad de saber" que coloca su privacidad a la vanguardia de nuestra tecnología.",
+  "security.card_3.text": "Creemos que sus datos le pertenecen. Nuestra filosofía de privacidad está respaldada por estrictos controles de software y hardware que limitan el acceso a la información estrictamente al personal y los procesos autorizados. Utilizamos cifrado avanzado para los datos en tránsito y en reposo, lo que garantiza que la información confidencial permanezca invisible para las miradas indiscretas. Nuestras políticas están diseñadas para minimizar la exposición de datos, adhiriéndose a un estricto principio de \"necesidad de saber\" que coloca su privacidad a la vanguardia de nuestra tecnología.",
 
   "pricing.hero.title": "Planes flexibles para cada etapa de sus operaciones de pago",
   "pricing.hero.description": "Comience de forma gratuita, escale a medida que crezcan su volumen de transacciones y sus necesidades operativas.",
@@ -585,7 +585,7 @@
   "policy.hero.title": "Su Privacidad. Nuestra Responsabilidad.",
   "policy.hero.description": "Cómo Urenkoff SA recopila, usa y protege su información.",
   "policy.title": "Política de Privacidad",
-  "policy.description": "Urenkoff SA ("nosotros", "nuestro", "nos") respeta su privacidad y se compromete a proteger sus datos personales. Esta Política de privacidad explica cómo recopilamos, usamos y protegemos la información cuando visita nuestro sitio web o se comunica con nosotros.",
+  "policy.description": "Urenkoff SA (\"nosotros\", \"nuestro\", \"nos\") respeta su privacidad y se compromete a proteger sus datos personales. Esta Política de privacidad explica cómo recopilamos, usamos y protegemos la información cuando visita nuestro sitio web o se comunica con nosotros.",
   "policy.item_2.title": "2. Información Que Recopilamos",
   "policy.item_2.text_1": "Podemos recopilar la siguiente información:",
   "policy.item_2.list_item_1": "Datos de contacto (como nombre, dirección de correo electrónico, número de teléfono) cuando se ponga en contacto con nosotros",

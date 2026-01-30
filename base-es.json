@@ -614,5 +614,9 @@
   "policy.item_7.title": "7. Sus Derechos",
   "policy.item_7.text": "Puede solicitar el acceso, la corrección o la eliminación de sus datos personales poniéndose en contacto con nosotros en sales@urenkoff.com.",
   "policy.item_8.title": "8. Cambios a esta Política",
-  "policy.item_8.text": "Podemos actualizar esta Política de Privacidad de vez en cuando. La versión actualizada se publicará en esta página con una fecha de vigencia revisada."
+  "policy.item_8.text": "Podemos actualizar esta Política de Privacidad de vez en cuando. La versión actualizada se publicará en esta página con una fecha de vigencia revisada.",
+
+  "page-not-found": "Página no encontrada",
+  "404.description": "Este endpoint no existe. Volvamos al camino correcto.",
+  "back-to-main": "Volver al inicio",
 }
